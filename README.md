@@ -39,6 +39,24 @@
 ## bảng Null của thời khóa biểu
 ![Ảnh chụp màn hình 2025-04-14 081732](https://github.com/user-attachments/assets/0863d5c3-b122-4a76-910c-5268f25b5c0c)
 
+## bảng đatabase
+![Ảnh chụp màn hình 2025-04-14 082504](https://github.com/user-attachments/assets/05c20ab2-8ade-4242-a486-67167919472d)
+
+
+# Tạo được query truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra.
+   trả lời câu hỏi: trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy
+
+ ### em dùng lênh sau để chuyển đổi từ tiết học sang giờ cụ thể để dễ xử lý, so sánh và hiển thị
+ ![Ảnh chụp màn hình 2025-04-14 101217](https://github.com/user-attachments/assets/fde48f4e-217e-4ca0-adff-31500861308d)
+
+ ### truy vấn trong khoảng 6:30 tới 12:00 ngày 14/04/2025 xem có những giáo viên nào đang giảng dạy
+ ![Ảnh chụp màn hình 2025-04-14 095943](https://github.com/user-attachments/assets/1d8569cc-0e4b-4c7b-814b-550f97d87aac)
+
+ ![Ảnh chụp màn hình 2025-04-14 101954](https://github.com/user-attachments/assets/4d81cb13-b448-4bc8-afb1-f75e5c9af158)
+
+
+
+
 
 
 
